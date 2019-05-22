@@ -1,6 +1,6 @@
 {
-  "name": "sn-nullspace",
-  "version": "1.0.0",
+  "name": "sn-ns",
+  "version": "1.0",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.0.1",
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/scdssn/nullspace.git"
+    "url": "git://https://github.com/scdssn/ns.git"
   }
 }
