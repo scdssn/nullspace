@@ -1,5 +1,5 @@
 {
-  "name": "sn-ns",
+  "name": "sn-nullspace",
   "version": "1.0",
   "main": "dist/dist.css",
   "devDependencies": {
