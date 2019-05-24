@@ -1,8 +1,6 @@
 # Nullspace for Standard Notes
 > A sleek, pure black theme. Mainly for devices with an AMOLED display, but any one will do.
 
-Made by Chandler.
-
 ## How to install
 1. Open Standard Notes on your computer and click on "Extensions" in the bottom left hand corner
 2. Click "Import Extension" and paste this link:
